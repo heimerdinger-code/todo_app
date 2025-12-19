@@ -1,0 +1,10 @@
+# To-Do List Application Dependencies
+
+# CustomTkinter - Modern GUI framework for Python
+# Provides a customizable, modern-looking Tkinter interface
+customtkinter>=5.2.0
+
+# Note: The following are built-in Python modules and don't need installation:
+# - csv (CSV file reading/writing)
+# - os (File system operations)
+# - sys (System-specific parameters)
