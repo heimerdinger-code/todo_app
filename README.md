@@ -17,7 +17,12 @@ A modern, user-friendly desktop to-do list application built with Python and Cus
 
 ## 📸 Screenshots
 
-*(Add screenshots of your application here)*
+![Normal view](https://github.com/user-attachments/assets/4a62ea7c-e5c0-49cb-af1b-adabcddae30f)
+
+![One of the modes](https://github.com/user-attachments/assets/451b0238-1da0-4319-9001-41a0bb5aa018)
+
+![An error popup](https://github.com/user-attachments/assets/6c1cc4bf-12d9-4734-83b0-8665c5997cd0)
+
 
 ## 🚀 Getting Started
 
