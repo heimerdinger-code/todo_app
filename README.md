@@ -55,6 +55,7 @@ todo-list-app/
 ├── tasks.csv           # Task storage (auto-generated)
 ├── requirements.txt    # Python dependencies
 └── README.md          # Project documentation
+└── LICENSE            # Project license
 ```
 
 ## 💻 Usage
